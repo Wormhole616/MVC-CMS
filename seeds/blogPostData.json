@@ -1,0 +1,22 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "date_created": "1994-10-14",
+        "user_id": 1
+
+    },
+    {
+        "title": "AI Artificial Intelligence",
+        "description": "A highly advanced robotic and human-like intelligence",
+        "date_created": "2001-06-29",
+        "user_id": 2
+
+    },
+    {
+        "title": "FaceBook",
+        "description": "A social media platform",
+        "date_created": "2004-02-04",
+        "user_id": 3
+    }
+]
