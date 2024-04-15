@@ -1,0 +1,62 @@
+[
+    {
+        "comment_body": "What in the world is this?",
+        "date_created": "2021-08-01",
+        "user_id": 2,
+        "blogPost_id": 1
+    },
+    {
+        "comment_body": "I love this!",
+        "date_created": "2021-08-01",
+        "user_id": 1,
+        "blogPost_id": 1
+    },
+    {
+        "comment_body": "I can't wait to see more!",
+        "date_created": "2021-08-01",
+        "user_id": 3,
+        "blogPost_id": 1
+    },
+    {
+        "comment_body": "I can't wait to see more!",
+        "date_created": "2021-08-01",
+        "user_id": 3,
+        "blogPost_id": 2
+    },
+    {
+        "comment_body": "I can't wait to see more!",
+        "date_created": "2021-08-01",
+        "user_id": 3,
+        "blogPost_id": 3
+    },
+    {
+        "comment_body": "I can't wait to see more!",
+        "date_created": "2021-08-01",
+        "user_id": 3,
+        "blogPost_id": 4
+    },
+    {
+        "comment_body": "I can't wait to see more!",
+        "date_created": "2021-08-01",
+        "user_id": 3,
+        "blogPost_id": 5
+    },
+    {
+        "comment_body": "I can't wait to see more!",
+        "date_created": "2021-08-01",
+        "user_id": 3,
+        "blogPost_id": 6
+    },
+    {
+        "comment_body": "I can't wait to see more!",
+        "date_created": "2021-08-01",
+        "user_id": 3,
+        "blogPost_id": 7
+    },
+    {
+        "comment_body": "I can't wait to see more!",
+        "date_created": "2021-08-01",
+        "user_id": 3,
+        "blogPost_id": 8
+    }
+]
