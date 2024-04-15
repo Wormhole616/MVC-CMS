@@ -1,28 +1,17 @@
 [
-
     {
-        
-        "name": "John Doe",
-        "email": "jhon.doe@email.com",
-        "password": "password123
-
+      "name": "Jake Jopolous",
+      "email": "jakejoy@email.com",
+      "password": "password1"
     },
     {
-       
-        
-        "name": "Jane Doe",
-        "email": "jane.doe@email.com",
-        "password": "password124"
-
+      "name": "Anita B Jay",
+      "email": "abj@fox.com",
+      "password": "password12"
     },
     {
-
-        
-        "name": "John Smith",
-        "email": "john.smith@email.com",
-        "password": "password125"
-
+      "name": "John Lennon",
+      "email": "jleno@seeme.com",
+      "password": "password123"
     }
-
-    
-]
+  ]
