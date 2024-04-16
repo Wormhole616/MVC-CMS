@@ -23,6 +23,10 @@ https://techyminds-2a9e816daf5e.herokuapp.com/
 for a guide on how to interact with the interface, please check my following video
 
 
+https://github.com/Wormhole616/MVC-CMS/assets/144727575/dd1dd376-c2db-47c8-b039-89f44503a5e4
+
+
+
 ## Contributions
 Gustavo Duque
 
@@ -31,6 +35,9 @@ User simple needs to login in order to access  the features the app offers.
 
 For developers, they may for my repository from my github page here
 https://github.com/Wormhole616/MVC-CMS.git
+
+![seeded](https://github.com/Wormhole616/MVC-CMS/assets/144727575/6ecbc68e-9533-4a4b-8a52-75f392a1a4f6)
+
 
 
 ## Questions
